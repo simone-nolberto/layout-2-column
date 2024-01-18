@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+#site_header{
+    height: 100px;
+    background-color: brown;
+}
+#site_main{
+    height: 500px;
+}
+#site_footer{
+    height: 350px;
+    background-color: lightsalmon;
+}
+.container{
+    display: flex;
+}
+#blocco-1{
+    width: 50%;
+    background-color: lightblue;
+}
+#blocco-2{
+    width: 25%;
+    background-color: pink;
+    height: 500px;
+}
+#side-menu{
+    width: 25%;
+    background-color: green;
+    height: 500px;
+}
